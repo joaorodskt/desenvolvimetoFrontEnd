@@ -1,0 +1,32 @@
+
+header p{
+    color: #ffffff;
+    font-weight: 600px;
+}
+
+h1{
+    font-size: 55px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    height: 120px;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: none;
+    width: 100%;
+}
+
+div .col{
+    grid: 50%;
+}
