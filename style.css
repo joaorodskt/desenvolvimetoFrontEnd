@@ -20,8 +20,8 @@ h2{
 }
 
 button{
-    background-color: blue;
-    color: white;
+    background-color: rgb(125, 125, 235);
+    color: rgb(0, 0, 0);
     text-align: center;
     border: none;
     width: 100%;
